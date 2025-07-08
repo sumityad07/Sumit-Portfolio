@@ -160,7 +160,7 @@ export const SkillsInfo = [
       school: "Kn Inter College",
       date: "Sept 2019 - Aug 2021",
       grade: "82.2%",
-      desc: "I completed my Bachelor's degree in Computer Science (B.Sc.) from KN INTER College, Supual. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at KN Inter College allowed me to work on projects that applied theoretical concepts to real-world problems.",
+      desc: "I completed my 12th grade from KN Inter College with Physics, Chemistry, Mathematics, English, and Hindi as my core subjects. During this time, I developed a strong foundation in analytical thinking, problem-solving, and scientific reasoning. The PCM subjects helped me sharpen my logical and mathematical skills, while English and Hindi improved my communication and writing abilities. Through regular assignments, tests, and concept-based learning, I built discipline, time management, and consistency in my studies. This academic phase not only strengthened my understanding of science and technology but also prepared me for future challenges in higher education and practical projects.",
       degree: "Inter mediate",
     },
    
