@@ -213,8 +213,9 @@ export const SkillsInfo = [
         "An efficient and customizable NPM package for validating email addresses. Built using React.js and Node.js, it provides robust validation features to help developers ensure that email inputs meet required formats and standards.",
       image: doc,
       tags: ["AI", "Machine Learning", "Natural Language Processing", "React.js", "Node.js", "Chatbot", "Healthcare", "Responsive UI"],
-      github: "https://github.com/codingmastr/cmtk-email-validator",
+      github: "https://github.com/sumityad07/AI-doctor_Assisent",
       webapp: "https://www.npmjs.com/package/cmtk-email-validator",
     },
+  
   
   ];  
